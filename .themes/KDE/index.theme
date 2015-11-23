@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=KDE
+Comment=A theme by Brahim Salem
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=KDE
+MetacityTheme=KDE
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

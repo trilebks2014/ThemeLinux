@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Plasma
+Comment=A Plasma theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Plasma
+MetacityTheme=Plasma
+ButtonLayout=:minimize,maximize,close
