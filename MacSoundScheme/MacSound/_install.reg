@@ -1,0 +1,142 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default\Lion]
+@="C:\\Windows\\Media\\MacSound\\Default Beep.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\Lion]
+@="C:\\Windows\\Media\\MacSound\\Program Error.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CCSelect\Lion]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ChangeTheme\Lion]
+@="C:\\Windows\\Media\\MacSound\\Windows Change Theme.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close\Lion]
+@="C:\\Windows\\Media\\MacSound\\Close Program.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Critical Battery Alarm\Lion]
+@="C:\\Windows\\Media\\MacSound\\Windows Battery Critical.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm\Lion]
+@="C:\\Windows\\Media\\MacSound\\Windows Battery Critical.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect\Lion]
+@="C:\\Windows\\Media\\MacSound\\Device Connected.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect\Lion]
+@="C:\\Windows\\Media\\MacSound\\Device Disconnected.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail\Lion]
+@="C:\\Windows\\Media\\MacSound\\Device Failed.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep\Lion]
+@="C:\\Windows\\Media\\MacSound\\New Messages.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm\Lion]
+@="C:\\Windows\\media\\Windows Battery Low.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep\Lion]
+@="C:\\Windows\\Media\\MacSound\\New Mail Notification.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\Lion]
+@="C:\\Windows\\Media\\MacSound\\Maximize.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand\Lion]
+@="C:\\Windows\\Media\\MacSound\\Menu Command.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup\Lion]
+@="C:\\Windows\\Media\\MacSound\\Menu Popup.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize\Lion]
+@="C:\\Windows\\Media\\MacSound\\Minimize.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open\Lion]
+@="C:\\Windows\\Media\\MacSound\\Open Program.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete\Lion]
+@="C:\\Windows\\Media\\MacSound\\Print Complete.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown\Lion]
+@="C:\\Windows\\Media\\MacSound\\Restore Down.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp\Lion]
+@="C:\\Windows\\Media\\MacSound\\Restore Up.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ShowBand\Lion]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk\Lion]
+@="C:\\Windows\\Media\\MacSound\\Asterisk.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation\Lion]
+@="C:\\Windows\\Media\\MacSound\\Exclamation.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExit\Lion]
+@="C:\\Windows\\Media\\MacSound\\Windows Logoff.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\Lion]
+@="C:\\Windows\\Media\\MacSound\\Critical Stop.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification\Lion]
+@="C:\\Windows\\Media\\MacSound\\System Notification.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemQuestion\Lion]
+@="C:\\Windows\\Media\\MacSound\\Question.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogoff\Lion]
+@="C:\\Windows\\Media\\MacSound\\Windows Logoff.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogon\Lion]
+@="C:\\Windows\\Media\\MacSound\\Windows Logon.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUAC\Lion]
+@="C:\\Windows\\Media\\MacSound\\Windows User Account Control.wav"
+
+
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\ActivatingDocument\Lion]
+@="C:\\Windows\\Media\\MacSound\\Menu Command.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup\Lion]
+@="C:\\Windows\\media\\MacSound\\Windows Pop-up Blocked.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\Lion]
+@="C:\\Windows\\media\\MacSound\\Empty Recycle Bin.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FaxError\Lion]
+@="C:\\Windows\\media\\MacSound\\Fax Error.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FaxLineRings\Lion]
+@="C:\\Windows\\media\\Windows Ringin.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FaxSent\Lion]
+@="C:\\Windows\\media\\tada.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered\Lion]
+@="C:\\Windows\\media\\Windows Feed Discovered.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\MoveMenuItem\Lion]
+@=""
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating\Lion]
+@="C:\\Windows\\media\\MacSound\\Windows Navigation Start.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SearchProviderDiscovered\Lion]
+@=""
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SecurityBand\Lion]
+@="C:\\Windows\\media\\Windows Information Bar.wav"
+
+
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbers\Lion]
+@=""
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbersSound\Lion]
+@="C:\\Windows\\media\\Speech Disambiguation.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOffSound\Lion]
+@="C:\\Windows\\media\\Speech Off.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOnSound\Lion]
+@="C:\\Windows\\media\\Speech On.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubSleepSound\Lion]
+@="C:\\Windows\\media\\Speech Sleep.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\MisrecoSound\Lion]
+@="C:\\Windows\\media\\Speech Misrecognition.wav"
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\PanelSound\Lion]
+@="C:\\Windows\\media\\Speech Disambiguation.wav"
+
+
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Names\Lion]
+@="Mac osX"
+
